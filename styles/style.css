@@ -1,0 +1,81 @@
+.navBar{
+    background-color: red;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.divhaut {
+    background-color: yellow;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+.principaleG{
+    display: flex;
+}
+
+.gauche{
+    background-color: blue;
+    height: 500px;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+.droite1{
+    height: 250px;
+    width: 50%;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.haut{
+   background-color: green;
+    height: 250px;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.bas{
+    height: 250px;
+    width: 100%;
+    margin-bottom: 5px;  
+  display: flex;
+}
+.bas1{
+    background-color: #D3691E;
+    height: 250px;
+    width: 50%;   
+}
+
+.bas2{
+    height: 125px;
+    width: 100%; 
+}
+
+.bas22{
+    background-color: #054C4C;
+    height: 125px;
+    width: 100%;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+.bas3{
+    height: 125px;
+    width: 100%;
+    display: flex;
+} 
+
+.bas33{
+    background-color:#F5F5DC;
+    height: 125px;
+    width: 100%;
+    margin bottom: 5px;
+}
+
+.bas4{
+    background-color: black;
+    height: 125px;
+    width: 100%;
+    margin-bottom: 5px;  
+}
